@@ -1,2 +1,2 @@
 # Dice-Game
-A great progress in my learning phase. Created a dice game with HTM, CSS and JavaScript.
+A great progress in my learning phase. Created a dice game with HTM, CSS and JavaScript which display a winner or draw, based on the player's dice number.
